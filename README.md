@@ -1,1 +1,1 @@
-# CodeAlpha_ProjectName
+# CodeAlpha_ Image Gallery
